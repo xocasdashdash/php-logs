@@ -1,0 +1,14 @@
+{
+    "name": "xocas/php-logs",
+    "require": {
+        "monolog/monolog": "dev-master",
+        "php": ">=7",
+        "psr/log": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "Joaquin",
+            "email": "joaquin.campo@digilant.com"
+        }
+    ]
+}
